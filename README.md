@@ -1,3 +1,8 @@
+<p align="center">
+<img src="./Report Financials/capafin.png"
+   widht="100px">
+</img></p>
+
 <h2 align="center"> 
    Fundamentos Business Analista</h2>
    
@@ -13,9 +18,9 @@
 
 Para melhorar a experiência, deixei cada módulo separado com suas propriedades.
 
-| Projeto | Descrição | Link de acesso |
+| Projeto | Descrição | Módulo |
 | --- | --- | --- |
-| Report Vendas - Mod. 1 | Criação de dashboard para análise de saúde financeira | clique aqui |
+| Report Vendas | Criação de dashboard para análise de saúde financeira | 1 |
 | 2 | Show file differences that haven't been staged | clique aqui |
 | 1 | Criação de dashboard para análise de saúde financeira | clique aqui |
 | 2 | Show file differences that haven't been staged | clique aqui |
